@@ -3,6 +3,7 @@ module github.com/watagit/gql-example/backend
 go 1.15
 
 require (
+	bitbucket.org/liamstask/goose v0.0.0-20150115234039-8488cc47d90c // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/kr/pretty v0.1.0 // indirect

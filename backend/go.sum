@@ -1,3 +1,5 @@
+bitbucket.org/liamstask/goose v0.0.0-20150115234039-8488cc47d90c h1:bkb2NMGo3/Du52wvYj9Whth5KZfMV6d3O0Vbr3nz/UE=
+bitbucket.org/liamstask/goose v0.0.0-20150115234039-8488cc47d90c/go.mod h1:hSVuE3qU7grINVSwrmzHfpg9k87ALBk+XaualNyUzI4=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
